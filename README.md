@@ -1,5 +1,31 @@
-<h1 align="center">Hi there 👋, I'm MD Omar Faruk Nayeem</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Bangladesh 🇧🇩</h3>
+<div className="bg-[#285d8a] p-6 rounded-xl flex flex-col sm:flex-row items-center justify-between gap-6 w-full max-w-5xl mx-auto text-white font-sans">
+      {/* Left Side - Info */}
+      <div className="flex items-center gap-4 w-full sm:w-auto">
+        <div className="w-24 h-24 rounded-full overflow-hidden border-4 border-white">
+          <img
+            src="https://via.placeholder.com/150" // Replace with your image URL
+            alt="Profile"
+            className="w-full h-full object-cover"
+          />
+        </div>
+        <div>
+          <h2 className="text-2xl font-bold">MD Omar Faruk Nayeem</h2>
+          <p className="text-base text-gray-200">Full Stack Web Developer</p>
+        </div>
+      </div>
+
+      {/* Right Side - Contact */}
+      <div className="text-sm sm:text-base flex flex-col sm:items-end gap-2">
+        <div className="flex items-center gap-2">
+          <span className="text-white">📞</span>
+          <span>01575162723</span>
+        </div>
+        <div className="flex items-center gap-2">
+          <span className="text-white">📧</span>
+          <span>omarnayeem32@gmail.com</span>
+        </div>
+      </div>
+    </div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there;I'm+MD+Omar+Faruk+Nayeem;Full+Stack+Web+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Firebase+Auth+%7C+API+Integration;" alt="Typing SVG" />
