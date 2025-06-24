@@ -30,7 +30,7 @@ Feel free to follow my journey and explore what I’ve been building!
 
 | Top Languages | GitHub Stats | GitHub Streak |
 |:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem2912&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayeem2912&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanyFaysal&theme=transparent&hide_border=true) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem2912&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayeem2912&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanyFaysal&theme=transparent&hide_border=true) |
 
 
 
