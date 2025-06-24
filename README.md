@@ -1,27 +1,36 @@
-<div className="bg-[#285d8a] p-6 rounded-xl flex flex-col sm:flex-row items-center justify-between gap-6 w-full max-w-5xl mx-auto text-white font-sans">
-      {/* Left Side - Info */}
-      <div className="flex items-center gap-4 w-full sm:w-auto">
+<div className="bg-[#0b3553] text-white rounded-xl p-6 flex flex-col md:flex-row items-center justify-between max-w-6xl mx-auto gap-6 shadow-xl">
+      {/* Left Section - Name and Stack */}
+      <div className="flex items-center gap-4">
+        {/* Profile Picture */}
         <div className="w-24 h-24 rounded-full overflow-hidden border-4 border-white">
           <img
-            src="https://via.placeholder.com/150" // Replace with your image URL
+            src="your-profile-image-url" // Replace with your image URL
             alt="Profile"
             className="w-full h-full object-cover"
           />
         </div>
+
+        {/* Name and Role */}
         <div>
-          <h2 className="text-2xl font-bold">MD Omar Faruk Nayeem</h2>
-          <p className="text-base text-gray-200">Full Stack Web Developer</p>
+          <h1 className="text-2xl font-bold">MD Omar Faruk Nayeem</h1>
+          <p className="text-sm text-gray-300">Full Stack Web Developer</p>
+          <div className="flex mt-2 gap-3">
+            <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" className="w-6 h-6" />
+            <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" className="w-6 h-6" />
+            <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" className="w-6 h-6" />
+            <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="MongoDB" className="w-6 h-6" />
+          </div>
         </div>
       </div>
 
-      {/* Right Side - Contact */}
-      <div className="text-sm sm:text-base flex flex-col sm:items-end gap-2">
+      {/* Right Section - Contact Info */}
+      <div className="flex flex-col items-start md:items-end gap-2 text-sm">
         <div className="flex items-center gap-2">
-          <span className="text-white">📞</span>
+          <span>📞</span>
           <span>01575162723</span>
         </div>
         <div className="flex items-center gap-2">
-          <span className="text-white">📧</span>
+          <span>📧</span>
           <span>omarnayeem32@gmail.com</span>
         </div>
       </div>
