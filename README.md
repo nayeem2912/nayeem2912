@@ -1,7 +1,9 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there+👋.+I'm+MD+Omar+Faruk+Nayeem.;Full+Stack+Web+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Firebase+Auth+%7C+API+Integration;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi there 👋, I'm MD Omar Faruk Nayeem</h1>
+<h3 align="center">A passionate Full Stack Web Developer from Bangladesh 🇧🇩</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Firebase+Auth+%7C+API+Integration;Let's+Build+Something+Amazing+Together!;" alt="Typing SVG" />
+</p>
 
 
 ### 👨‍💻 About Me
