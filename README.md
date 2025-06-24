@@ -36,9 +36,9 @@ Feel free to follow my journey and explore what I’ve been building!
 
 ### 📫 Connect with Me
 
-- 🌐 Portfolio: [Coming Soon]
-- 📬 Email: omarnayeem129@gmail.com
-- 🔗 LinkedIn: [Your LinkedIn Profile]
+- 🌐 Portfolio: Portfolio 
+- 📬 Email: omarnayeem32@gmail.com
+- 🔗 LinkedIn:LinkedIn.com
 
 ---
 
