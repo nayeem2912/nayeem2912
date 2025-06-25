@@ -12,6 +12,11 @@ Feel free to follow my journey and explore what I’ve been building!
 
 ---
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/19NvDcLP3E/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]() 
+
+---
+
 ## 💻 When I Code, I Rely On
 
 | **Skills Overview**       | **Technologies**                                                                                                                                   |
