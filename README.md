@@ -1,12 +1,12 @@
  <img alt="html5" src="Screenshot 2025-07-04 112553.png" />
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there;I'm+MD+Omar+Faruk+Nayeem;Mern+Stack+Web+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Firebase+Auth+%7C+API+Integration;Let's+Build+Something+Amazing+Together!" alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there;I'm+MD+Omar+Faruk+Nayeem;MERN+Stack+Web+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Firebase+Auth+%7C+API+Integration;Let's+Build+Something+Amazing+Together!" alt="" />
 </p>
 
 
 ### 👨‍💻 About Me
 
-Hi there! I'm **MD Omar Faruk Nayeem** — a passionate **Full Stack Web Developer** skilled in building modern, responsive, and scalable web applications using **React, Node.js, Express, and Firebase**.  
+Hi there! I'm **MD Omar Faruk Nayeem** — a passionate **MERN Stack Web Developer** skilled in building modern, responsive, and scalable web applications using **React, Node.js, Express, and Firebase**.  
 I enjoy turning ideas into interactive digital experiences and continuously learning to grow as a developer.  
 Feel free to follow my journey and explore what I’ve been building!
 
