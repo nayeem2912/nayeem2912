@@ -44,7 +44,7 @@ Feel free to follow my journey and explore what I’ve been building!
 
 - 🌐 Portfolio: https://my-portfolio-nayeem2912.netlify.app/ 
 - 📬 Email: omarnayeem32@gmail.com
-- 🔗 LinkedIn:LinkedIn.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/md-omar-faruk-nayeem-489a11372/
 
 ---
 
