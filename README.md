@@ -1,6 +1,6 @@
  <img alt="html5" src="Purple Blue Simple Professional Marketing Professional LinkedIn Article Cov_20250625_030910_0000.png" />
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there;I'm+MD+Omar+Faruk+Nayeem;I'm+a+Full+Stack+Web+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Firebase+Auth+%7C+API+Integration;" alt="Typing SVG" />
+  <img src="" alt="" />
 </p>
 
 
