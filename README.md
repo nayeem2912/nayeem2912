@@ -1,4 +1,4 @@
- <img alt="html5" src="Purple Blue Simple Professional Marketing Professional LinkedIn Article Cov_20250625_030910_0000.png" />
+ <img alt="html5" src="" />
 <p align="center">
   <img src="" alt="" />
 </p>
