@@ -1,6 +1,6 @@
  <img alt="html5" src="Screenshot 2025-07-04 112553.png" />
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there;I'm+MD+Omar+Faruk+Nayeem;Full+Stack+Web+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Firebase+Auth+%7C+API+Integration;Let's+Build+Something+Amazing+Together!" alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there;I'm+MD+Omar+Faruk+Nayeem;Mern+Stack+Web+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Firebase+Auth+%7C+API+Integration;Let's+Build+Something+Amazing+Together!" alt="" />
 </p>
 
 
