@@ -35,7 +35,7 @@ Feel free to follow my journey and explore what I’ve been building!
 
 | Top Languages | GitHub Stats | GitHub Streak |
 |:---:|:---:|:---:|
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem2912&layout=pie)](https://github.com/nayeem2912/github-readme-stats) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayeem2912&show_icons=true&theme=transparent) | <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nayeem2912&theme=dark" alt="GitHub Streak" /></a></p>
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem2912&layout=pie)](https://github.com/nayeem2912/github-readme-stats) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayeem2912&show_icons=true&theme=transparent) | [![GitHub Streak](https://streak-stats.demolab.com/?user=nayeem2912&theme=dark)](https://git.io/streak-stats) | <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nayeem2912&theme=dark" alt="GitHub Streak" /></a></p>
  
 
 
